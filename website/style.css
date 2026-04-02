@@ -1,0 +1,41 @@
+.container{
+    margin-left:10%;
+    margin-right:10%;
+}
+.heading, .header h3{
+    color:rgba(231, 73, 38, 0.712);
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.ul{
+    list-style: none;
+    display: flex;
+    
+}
+.header ul li{
+    width:60px;
+
+}
+.header ul li a{
+    text-decoration: none;
+}
+
+.footer{
+    margin-top:70px;
+
+}
+.footer ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+footer ul li{
+    padding:5px;
+
+}
+
+img{
+    width:500px;
+}
